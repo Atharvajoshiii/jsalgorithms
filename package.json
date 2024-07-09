@@ -1,0 +1,22 @@
+{
+  "name": "@atharvawebworks/jsalgorithms",
+  "version": "1.0.0",
+  "description": "Every complex algorithm in simplified way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atharvajoshiii/jsalgorithms.git"
+  },
+  "keywords": [
+    "jsa"
+  ],
+  "author": "atharva joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atharvajoshiii/jsalgorithms/issues"
+  },
+  "homepage": "https://github.com/Atharvajoshiii/jsalgorithms#readme"
+}
